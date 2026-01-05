@@ -5,7 +5,7 @@ Configuración de pines, variante de PlatformIO y guía de conexión para crear 
 ## 🇪🇸 Descripción
 Este repositorio contiene los archivos de configuración necesarios (`variant.h`, `pins_arduino.h` y `platformio.ini`) para compilar el firmware de **Meshtastic** en un nodo DIY construido con:
 * **MCU:** ESP32-C3 SuperMini (Nologo/Genérico)
-* **Radio LoRa:** DX-LR30 (SX1262)
+* **Radio LoRa:** DX-LR30 (SX1262) - (AliExpress: https://a.aliexpress.com/_EHXjuJI)
 
 Esta combinación es económica, muy pequeña y eficiente energéticamente.
 
