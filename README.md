@@ -18,7 +18,7 @@ This repository hosts the necessary configuration files to compile **Meshtastic*
 
 > **⚠️ WARNING:** The DX-LR30 module works at **3.3V**. Do not connect to 5V.
 
-<img src="https://github.com/carlcopilot/Meshtastic-ESP32C3-SuperMini-SX1262/blob/main/esp32-C3%20Super%20mini%20pinout.jpeg?raw=true" alt="ESP32 C3 pinout" width="500"> <img src="https://github.com/carlcopilot/Meshtastic-ESP32C3-SuperMini-SX1262/blob/main/DX%20LR30%20Pinout.png?raw=true" alt="DX LR30 pinout" width="200">
+<img src="https://github.com/carlcopilot/Meshtastic-ESP32C3-SuperMini-SX1262/blob/main/esp32-C3%20Super%20mini%20pinout.jpeg?raw=true" alt="ESP32 C3 pinout" width="500"> <img src="https://wsrv.nl/?url=github.com/carlcopilot/Meshtastic-ESP32C3-SuperMini-SX1262/blob/main/DX%20LR30%20Pinout.png?raw=true&rot=270" alt="DX LR30 pinout" width="200">
 
 
 | Function | DX-LR30 Pin | ESP32-C3 Pin (GPIO) | Notes |
